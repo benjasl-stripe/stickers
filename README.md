@@ -1,0 +1,2 @@
+# stickers
+AWS Serverless stickers
